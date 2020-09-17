@@ -1,0 +1,8 @@
+
+*.class
+jumpstart-project/jumpstart-project/.classpath
+*.prefs
+*.xml
+*.MF
+jumpstart-project/jumpstart-project/.project
+jumpstart-project/jumpstart-project/target/classes/META-INF/maven/adp-project/jumpstart-project/pom.properties
